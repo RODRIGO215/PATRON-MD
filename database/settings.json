@@ -1,5 +1,5 @@
 {
-  "autoStatusView": false,
-  "publicMode": true,
-  "botOwner": ""
+  "autoStatusView": true,
+  "publicMode": false,
+  "botOwner": "2347063409595"
 }
